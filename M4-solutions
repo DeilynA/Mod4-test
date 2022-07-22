@@ -1,0 +1,133 @@
+(function (window) {
+	var yaakovGreeter = "Yaakov";
+	var greeting= "Hello";
+	yaakovGreeter.sayHello = function() {
+	console.log(greeting + yaakovGreeter.name);
+	
+	}
+	
+	window.yaakovGreeter = yaakovGreeter;
+
+})(window); 
+
+
+(function (window) {
+	var johnGreeter = "John";
+	var greeting= "Good bye";
+	johnGreeter.sayGoodbye = function() {
+	console.log(greeting + johnGreeter.name);
+	
+	}
+	
+	window.johnGreeter = johnGreeter;
+
+})(window); 
+
+
+(function (window) {
+	var jenGreeter = "Jen";
+	var greeting= "Good bye";
+	jenGreeter.sayGoodbye = function() {
+	console.log(greeting + jenGreeter.name);
+	
+	}
+	
+	window.jenGreeter = jenGreeter;
+
+})(window); 
+
+
+(function (window) {
+	var jasonGreeter = "Jason";
+	var greeting= "Good bye";
+	jasonGreeter.sayGoodbye = function() {
+	console.log(greeting + jasonGreeter.name);
+	
+	}
+	
+	window.jasonGreeter = jasonGreeter;
+
+})(window); 
+
+(function (window) {
+	var paulGreeter = "Paul";
+	var greeting= "Hello";
+	paulGreeter.sayHello = function() {
+	console.log(greeting + paulGreeter.name);
+	
+	}
+	
+	window.paulGreeter = paulGreeter;
+
+})(window); 
+
+(function (window) {
+	var frankGreeter = "Frank";
+	var greeting= "Hello";
+	frankGreeter.sayHello = function() {
+	console.log(greeting + frankGreeter.name);
+	
+	}
+	
+	window.frankGreeter = frankGreeter;
+
+})(window); 
+
+(function (window) {
+	var larryGreeter = "Larry";
+	var greeting= "Hello";
+	larryGreeter.sayhello = function() {
+	console.log(greeting + larryGreeter.name);
+	
+	}
+	
+	window.larryGreeter = larryGreeter;
+
+})(window); 
+
+(function (window) {
+	var paulaGreeter = "Paula";
+	var greeting= "Hello";
+	paulaGreeter.sayhello = function() {
+	console.log(greeting + paulaGreeter.name);
+	
+	}
+	
+	window.paulaGreeter = paulaGreeter;
+
+})(window); 
+
+(function (window) {
+	var lauraGreeter = "Laura";
+	var greeting= "Hello";
+	lauraGreeter.sayhello = function() {
+	console.log(greeting + lauraGreeter.name);
+	
+	}
+	
+	window.lauraGreeter = lauraGreeter;
+
+})(window); 
+
+(function (window) {
+	var jimGreeter = "Jim";
+	var greeting= "Good bye";
+	jimGreeter.sayGoodbye = function() {
+	console.log(greeting + jimGreeter.name);
+	
+	}
+	
+	window.jimGreeter = jimGreeter;
+
+})(window); 
+
+
+
+
+
+
+
+
+
+
+
